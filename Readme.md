@@ -5,3 +5,10 @@
 -Dconsole.encoding=UTF-8
 ```
 3. clean & build
+
+
+### 06 
+코틀린 빌드스크립트는 .kts확장자 . 코틀린 스크립트의 약자
+
+
+

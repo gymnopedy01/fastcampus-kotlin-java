@@ -23,6 +23,16 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kotlin-java-spring" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kotlin-java-spring" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
